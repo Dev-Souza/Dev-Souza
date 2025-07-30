@@ -7,47 +7,6 @@ Sou um desenvolvedor fullstack apaixonado por tecnologia e por transformar ideia
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="angular"
-    title="angular" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://angular.io/assets/images/logos/angular/angular.svg"
-/>
-<img 
-    align="left" 
-    alt="bootstrap" 
-    title="bootstrap"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="css3" 
-    title="css3"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="docker"
-    title="docker" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="html5"
-    title="html5" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-/>
 <img 
     align="left" 
     alt="java" 
@@ -58,35 +17,19 @@ Sou um desenvolvedor fullstack apaixonado por tecnologia e por transformar ideia
 />
 <img 
     align="left" 
-    alt="javascript"
-    title="javascript" 
+    alt="spring" 
+    title="spring"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+    src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
 />
 <img 
     align="left" 
-    alt="mongodb" 
-    title="mongodb"
+    alt="angular"
+    title="angular" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="mysql" 
-    title="mysql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="nodejs" 
-    title="nodejs"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+    src="https://angular.io/assets/images/logos/angular/angular.svg"
 />
 <img 
     align="left" 
@@ -106,6 +49,62 @@ Sou um desenvolvedor fullstack apaixonado por tecnologia e por transformar ideia
 />
 <img 
     align="left" 
+    alt="bootstrap" 
+    title="bootstrap"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="html5"
+    title="html5" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="css3" 
+    title="css3"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="javascript"
+    title="javascript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+/>
+<img 
+    align="left" 
+    alt="nodejs" 
+    title="nodejs"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="docker"
+    title="docker" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="mongodb" 
+    title="mongodb"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+/>
+<img 
+    align="left" 
     alt="reactnative" 
     title="reactnative"
     width="30px" 
@@ -114,11 +113,11 @@ Sou um desenvolvedor fullstack apaixonado por tecnologia e por transformar ideia
 />
 <img 
     align="left" 
-    alt="spring" 
-    title="spring"
+    alt="mysql" 
+    title="mysql"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
 />
 <img 
     align="left" 
@@ -147,14 +146,14 @@ Sou um desenvolvedor fullstack apaixonado por tecnologia e por transformar ideia
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Dev-Souza&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Souza&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
