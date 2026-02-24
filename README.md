@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou um desenvolvedor fullstack apaixonado por tecnologia e por transformar ideias em soluções digitais. Tenho experiência prática em back-end com Java, Spring Boot e PostgreSQL, MongoDB, JS, Node e no front-end com React, Angular e ferramentas modernas de interface. Já desenvolvi sistemas completos com funcionalidades como autenticação, dashboards interativos com gráficos, gerenciamento de usuários e produtos, entre outros.
+Sou um desenvolvedor fullstack apaixonado por tecnologia e por transformar ideias em soluções digitais. Tenho experiência profissional em back-end com Java, Spring Boot e PostgreSQL, MongoDB, JS, Node e no front-end com React, Angular e ferramentas modernas de interface. Já desenvolvi sistemas completos com funcionalidades como autenticação, dashboards interativos com gráficos, gerenciamento de usuários e produtos, entre outros.
 
 ---
 
